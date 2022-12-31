@@ -26,10 +26,12 @@ function App() {
               <input type="password" placeholder="Password" className="name" />
             </div>
             <div className="login-button">
-              <button>Login</button>
+              <a href="https://google.ca">
+                <button>Login</button>
+              </a>
             </div>
             <p className="link">
-              <a href="#">Forgot password?</a> or <a href="#">Sign up</a>
+              <a href="https://google.ca">Forgot password?</a> or <a href="https://google.ca">Sign up</a>
             </p>
           </div>
         </div>
