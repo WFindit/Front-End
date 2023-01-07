@@ -1,0 +1,79 @@
+.main{
+    text-align: center;
+    display: flex;
+    background-color: #f5f5f5;
+    height: 100vh;
+    vertical-align: middle;
+}
+
+.sub-main{
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    width: 30%;
+    box-shadow: inset -5px -5px 6px rgb(207, 207, 207);
+    border-radius: 30px;
+    background-color: white;
+}
+
+.imgs{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    justify-content: center;
+    display: flex;
+}
+
+.logo{
+    height: 150px;
+    border-radius: 130px;
+    padding-top: 20px;
+    justify-content: center;
+    display: flex;
+}
+
+input{
+    width: 250px;
+    height: 50px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 3px #888;
+    border: none;
+    outline: none;
+    background-color: #fff;
+}
+
+button{
+    width: 120px;
+    height: 50px;
+    border-radius: 20px;
+    background-color: #FFE600;
+    color: #9c9c9c;
+    font-size: 20px;
+    border: none;
+    box-shadow: 1px 1px 3px #888;
+    cursor: pointer;
+}
+
+.login-button{
+    
+}
+
+.link{
+    font-size: 15px;
+    font-weight: bold;
+    color: #9c9c9c;
+    padding-top: 17px;
+}
+
+a{
+    color: #9c9c9c;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+a:link { text-decoration: none; }
+
+a:visited { text-decoration: none; }
+
+a:hover { text-decoration: none; }
+
+a:active { text-decoration: none; }
