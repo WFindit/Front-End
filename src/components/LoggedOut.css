@@ -9,6 +9,7 @@ body{
     vertical-align: middle;
     margin-top: 2vh;
     margin-left: 10px;
+    min-height: 300px;
 }
 
 .sub-main{
