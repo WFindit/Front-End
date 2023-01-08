@@ -1,6 +1,6 @@
 import React from "react";
-import LoginPage from "./components/popup/loginPage";
-import HomeLeftMain from "./components/popup/homeLeftMain";
+import LoginPage from "./components/popup/LoginPage";
+import HomeLeftMain from "./components/popup/HomeLeftMain";
 
 const App = () => {
   return (

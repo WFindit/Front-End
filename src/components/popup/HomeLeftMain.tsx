@@ -1,5 +1,5 @@
 import React from "react";
-import "./homeLeftMain.css";
+import "./HomeLeftMain.css";
 import logo from "../../images/w-findit.png";
 import { Icon } from "@iconify/react";
 
