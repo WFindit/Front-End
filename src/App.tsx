@@ -1,13 +1,11 @@
 import React from "react";
-import LoginPage from "./components/LoginPage";
-import LoggedOut from "./components/LoggedOut";
-import LoggedIn from "./components/LoggedIn";
-import HomePage from "./components/HomePage";
+import LoginPage from "./components/popup/loginPage";
+import HomeLeftMain from "./components/popup/homeLeftMain";
 
 const App = () => {
   return (
     <div>
-      <HomePage />
+      <LoginPage />
     </div>
   );
 };
