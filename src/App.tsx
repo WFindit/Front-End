@@ -5,7 +5,7 @@ import HomeLeftMain from "./components/popup/HomeLeftMain";
 const App = () => {
   return (
     <div>
-      <LoginPage />
+      <HomeLeftMain />
     </div>
   );
 };
