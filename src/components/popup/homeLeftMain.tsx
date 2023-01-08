@@ -1,9 +1,9 @@
 import React from "react";
-import "./LoggedOut.css";
-import logo from "../images/w-findit.png";
+import "./homeLeftMain.css";
+import logo from "../../images/w-findit.png";
 import { Icon } from "@iconify/react";
 
-const LoggedOut = () => {
+const HomeLeftMain = () => {
   return (
     <div className="main">
       <div className="sub-main">
@@ -23,4 +23,4 @@ const LoggedOut = () => {
   );
 };
 
-export default LoggedOut;
+export default HomeLeftMain;

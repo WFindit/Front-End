@@ -1,7 +1,7 @@
-import logo from "../images/w-findit.png";
+import logo from "../../images/w-findit.png";
 import { Icon } from "@iconify/react";
 import React from "react";
-import "./LoginPage.css";
+import "./loginPage.css";
 
 const LoginPage = () => {
   return (
